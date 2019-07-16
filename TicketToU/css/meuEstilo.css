@@ -1,0 +1,219 @@
+/*
+
+
+body{
+    background-image: url("https://wallpaperstudio10.com/static/wpdb/wallpapers/3840x2160/179274.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    padding: 50px;
+    back
+    
+}
+
+
+.titulo{
+    text-align: center;
+    font-family: 'Architects Daughter';
+}
+
+main{
+    
+background-color: white;
+border: 3px outset aliceblue;
+border-radius: 20px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  min-width: 400px;
+}
+
+.container{
+    padding: 50px 50px 38px 35px;
+    
+}
+
+label{
+   font-family: 'Poppins';
+}
+
+#titulo{
+    text-align: center;
+}
+
+
+
+input{
+    background: #f7f7f7 none repeat scroll 0 0;
+    
+}
+
+#btnCad{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+   
+}
+
+.login100-form-btn {
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    width: 100%;
+    height: 50px;
+}
+
+button {
+    outline: none !important;
+    border: none;
+    background: transparent;
+}
+
+
+textarea{
+    width: 350px;
+    height: 200px;
+    resize: none;
+}
+
+footer{
+    color: red;
+    font-size: 7.5px;
+    float:  right;
+}
+
+.botao_modificado{
+    border-radius: 25px;}
+
+.container {
+    font-family: 'Poppins';
+    border-radius: 20px;
+    background: -moz-linear-gradient(-45deg, rgba(163,32,139,1) 0%, rgba(139,127,197,1) 62%, rgba(131,161,217,0.7) 84%, rgba(125,185,232,0) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(163,32,139,1) 0%,rgba(139,127,197,1) 62%,rgba(131,161,217,0.7) 84%,rgba(125,185,232,0) 100%);
+    background: linear-gradient(135deg, #28a745 0%,rgba(139,127,197,1) 62%,rgba(1, 57, 160, 0.7) 84%,rgba(125,185,232,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a3208b', endColorstr='#007db9e8',GradientType=1 );
+}
+
+.otherpage{
+    text-align: center;
+}
+
+
+*/
+.navbar-custom .navbar-collapse {
+    border-color: rgba(255,255,255,.02);
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+}
+@media (min-width: 768px)
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 340px;
+}
+@media (min-width: 768px)
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+}
+@media (min-width: 768px)
+.navbar-collapse.collapse {
+    display: block!important;
+    height: auto!important;
+    padding-bottom: 0;
+    overflow: visible!important;
+}
+@media (min-width: 768px)
+.navbar-collapse {
+    width: auto;
+    border-top: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.navbar-collapse {
+    padding-right: 15px;
+    padding-left: 15px;
+    overflow-x: visible;
+    -webkit-overflow-scrolling: touch;
+    border-top: 1px solid transparent;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
+}
+.collapse {
+    display: none;
+}
+
+
+@media (min-width: 768px)
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+}
+
+@media (min-width: 768px)
+.navbar-custom .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+.navbar-custom .navbar-brand {
+    color: #fed136;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+}
+.navbar-default .navbar-brand {
+    color: #777;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-custom .nav li a {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.navbar-custom .nav li a, .navbar-custom .navbar-toggle {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+}
+@media (min-width: 768px)
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+

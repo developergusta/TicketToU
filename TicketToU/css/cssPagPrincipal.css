@@ -1,0 +1,67 @@
+.masthead{
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/tomorrowland.jpg);
+    background-position: center;
+    
+}
+
+.masthead h1{
+    font-family:'Varela Round';
+    font-size:2.5rem;
+    line-height:2.5rem;
+    letter-spacing:.8rem;    
+    background: -webkit-linear-gradient(rgba(221, 233, 27, 0.9),rgba(43, 216, 255, 0.54));
+    -webkit-text-fill-color: #a4b1e700;
+    -webkit-background-clip:text
+}
+
+.text-white-50 {
+    color: rgb(255, 255, 255)!important;
+}
+
+.carousel-control-prev{
+    background-color: rgba(255,255,255,0.4); 
+}
+
+.carousel-control-next{
+    background-color: rgba(255,255,255,0.4); 
+}
+
+.carousel-caption d-none d-md-block{
+-webkit-text-stroke-width: 0.5px;
+-webkit-text-stroke-color: #000;
+}
+
+.masterhead1{  
+    background: -webkit-linear-gradient(rgba(245, 0, 183, 0.9),rgb(255, 7, 7));
+    -webkit-text-fill-color: #e9f7f87d;
+}
+
+#mainNav .navbar-brand {
+    font-family: 'Aclonica';
+    font-size: 22px;
+    text-shadow: rgb(255, 255, 255) 1px 0px 0px, rgb(0, 0, 0) 0.540302px 0.841471px 0px, rgb(0, 0, 0) -0.416147px 0.909297px 0px, rgb(0, 0, 0) -0.989992px 0.14112px 0px, rgb(255, 255, 255) -0.653644px -0.756802px 0px, rgb(255, 255, 255) 0.283662px -0.958924px 0px, rgb(208, 80, 80) 0.96017px -0.279415px 0px;
+}
+
+#mainNav .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#fontSobre{
+    font-family: 'Architects Daughter'!important;
+    font-size: 22px;
+}
+
+.signup-section {
+    padding: 10rem 0;
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url(../img/bg-signup.jpg);
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/179274.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.projects-section {
+    padding: 5rem 0;
+}
+
